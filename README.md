@@ -37,6 +37,9 @@
 - pandas
 - numpy
 
+## Special attention
+- Github is not rendering charts by Plotly, please use colab/jupyter notebooks to view the same.
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
